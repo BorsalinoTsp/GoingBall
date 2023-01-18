@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8263b2c431055844ab53b688ecb28e8d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: bc42496703c4085429c19d7e2420ab82
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 8afe025b5a24d9446bc90bb6f9dbf264
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: f17b3cbc703d2a848bfd2f4101bb7681
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: cb2f797dcd5020c4db5fe488c3f03a31
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: b5135380802690a46bf1bf90debab677
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 2b3250d174c1aec42a56630e60abf95b
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 04532e8db113da64a8bef58b1617ba7e
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: 1897852579a6bea419e1c33f250b49db
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 9076222ecf08359489647cb10cbc8084
+  - enabled: 1
+    path: Assets/Scenes/Bonus Level.unity
+    guid: 95491fa816f396c48ba715232b7dee57
+  m_configObjects: {}
